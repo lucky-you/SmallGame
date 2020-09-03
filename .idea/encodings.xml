@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/gamedata/GameData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/ChallengeListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/EscapeListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/ListListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/LoginListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/ResetListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/listener/SendMessageListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/net/ClientThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/net/Resolver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/start/StartGame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/tools/IOTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/tools/ListTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/tools/MessageTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/ChessBoard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/ChessPoint.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/ClientFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/FunctionPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/GamePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/LoginPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/MessagePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/PlayerPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/client/ui/StatusPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/net/Resolver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/net/ServerThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/start/LaunchServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/tools/HashMapTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/tools/ListTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/tools/MessageTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/tools/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/ui/MessagePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/ui/PlayerPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game/src/main/java/com/server/ui/ServerFrame.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
